@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm a Python Developer<br>🌱 I'm currently learning Django and JavaScript<br>
+🧑‍💻 I'm a Python Developer<br>🌱 I'm currently learning Django<br>
 
 
 ## 🌐 Socials:
