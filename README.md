@@ -7,6 +7,7 @@
 ###
 
 <h4 align="left">I recently graduated from Sri Krishnadevaraya University. During my graduation, I realized the potential of IT and programming. Although I did not graduate in CS or IT, I have always been fascinated by the idea of programming and coding. I worked on my technical skills and was involved in projects.
+  
 
 I worked on several projects that allowed me to develop my skills in Python, MySQL, MongoDB, HTML, and CSS. My experience during training days taught me the importance of attention to detail, teamwork, and effective communication..</h4>
 
