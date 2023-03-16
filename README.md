@@ -12,7 +12,7 @@
 - ❓ Ask me about Python, Django, MySQL  
   
 
-- 📃 Know about my experience by Viewing [My Resume](https://drive.google.com/file/d/1gmozkUEd2EGffkWVzt5dVhPZeta90Ms8/view?usp=share_link)  
+- 📃 Know about my experience by Viewing [My Resume](https://drive.google.com/file/d/1mKulzOFb1tUlBsyXVOqew7B0tplK_-ff/view?usp=share_link)  
   
 
 - 🤳 You can reach me on [LinkedIn](https://www.linkedin.com/in/dasthagiri7) or [Whatsapp](http://wa.me/+919346758502)  
