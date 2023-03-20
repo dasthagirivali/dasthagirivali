@@ -61,17 +61,7 @@
 
 <div align="center">
 <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" align="center" height="60" width="60" />
-</div>  
-  
-
-<div align="center">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" align="center" height="50" width="50" />
-</div>  
-  
-
-<div align="center">
-<img src="https://icon2.cleanpng.com/20180609/ep/kisspng-qt-creator-qt-quick-the-qt-company-posted-write-5b1b6b4c757a46.7426413815285235964812.jpg" align="center" height="60" width="60" />
-</div>  
+</div>   
 
 
 </td></tr></table>  
