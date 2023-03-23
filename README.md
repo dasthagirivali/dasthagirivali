@@ -1,9 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<h1 align="center">Hi 👋, I'm Dasthagiri Vali</h1>
+<h3 align="center">A Python Developer</h3>
 
-### <div align="center">I'm Dasthagiri Vali, a Python Developer 👨‍💻</div>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasthagiri-vali" alt="dasthagiri-vali" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/dasthagiri_7" target="blank"><img src="https://img.shields.io/twitter/follow/dasthagiri_7?logo=twitter&style=for-the-badge" alt="dasthagiri_7" /></a> </p>
   
 
 - 🔭 I’m currently working on **Supermarket Management System**  
