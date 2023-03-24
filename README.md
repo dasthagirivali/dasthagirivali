@@ -44,7 +44,7 @@
 <a href="https://www.facebook.com/dasthagiri7777" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a><br>
-<a href="[https://www.youtube.com/user/dasthagiri7](https://www.hackerrank.com/dasthagiri)" target="_blank">
+<a href="https://www.hackerrank.com/dasthagiri" target="_blank">
 <img src="https://hrcdn.net/hackerrank/assets/hackerranklogo_green-f581d6b2ab15544187d200eb9116d5921ca4e61e00a785fd409a9b0027d76a18.png" alt="HackerRank" height="35" width="140" style="margin-bottom: 5px;" />
 </a>
 </div>  
