@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on **Supermarket Management System**  
   
 
-- 🌱 I’m currently learning **Django Framework**  
+- 🌱 I’m currently learning **RESTful API**  
   
 
-- ❓ Ask me about anything related to **Python** and **MySQL**  
+- ❓ Ask me about anything related to **Python**, **Django** and **MySQL**  
   
 
 - 📩 You can reach me on [LinkedIn](https://www.linkedin.com/in/dasthagiri7) or [Email](mailto:dasthagirivali77@gmail.com)  
