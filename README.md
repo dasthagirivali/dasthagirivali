@@ -94,7 +94,7 @@
 <h1>About Me</h1>
   <p>During my graduation, I realized the potential of IT and programming. Although I did not graduate in CS or IT, I have always been fascinated by the idea of programming and coding. As you can see on my resume, <b>I have worked on my technical skills and involved in projects.</b>
 
-<b>I worked on several projects that allowed me to develop my skills in Python, MySQL, MongoDB, HTML, and CSS</b>. My experience during training days taught me the importance of attention to detail, teamwork, and effective communication.
+<b>I worked on several projects that allowed me to develop my skills in Python, Django, MySQL, MongoDB, HTML, and CSS</b>. My experience during training days taught me the importance of attention to detail, teamwork, and effective communication.
   </p>
 
 
