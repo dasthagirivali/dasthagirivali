@@ -18,7 +18,7 @@
 - 📩 You can reach me on [LinkedIn](https://www.linkedin.com/in/dasthagiri7) or [Email](mailto:dasthagirivali77@gmail.com)  
   
 
-- 📃 You can know my experiences by viewing [My Resume](https://drive.google.com/file/d/1JkFBajdy_Yi0KjgDaFFGuRQ_kH3H8_dj/view?usp=drivesdk)  
+- 📃 You can know my experiences by viewing [My Resume](https://drive.google.com/file/d/1dvEJ6icxek6cPdc28UPNLGe-Tx8nQ9aG/view?usp=share_link)  
   
 
 <br/>  
