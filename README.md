@@ -89,9 +89,11 @@
 
 <br/>  
 <h1>About Me</h1>
-  <p>During my graduation, I realized the potential of IT and programming. Although I did not graduate in CS or IT, I have always been fascinated by the idea of programming and coding. As you can see on my resume, <b>I have worked on my technical skills and involved in projects.</b>
+ <p>A highly motivated and skilled graduate looking for an entry-level position as a Python Developer. <b>Proficient in Python, Django, MySQL, HTML, and CSS. </b> Ability to learn new software and technologies quickly. Capability to work in teams by providing valuable support. </p>
 
-<b>I worked on several projects that allowed me to develop my skills in Python, Django, MySQL, MongoDB, HTML, and CSS</b>. My experience during training days taught me the importance of attention to detail, teamwork, and effective communication.
+<p>I graduated from Sri Krishnadevaraya University with a Bachelor's Degree in Commerce in Computer Applications. During my graduation, I realized the potential of IT and programming. Although I did not graduate in CS or IT, <b>I have always been fascinated by the idea of programming and coding.</b></p>
+
+<p> <b>I worked on my technical skills and involved in projects that allowed me to develop my skills in Python, MySQL, MongoDB, HTML, and CSS.</b> My experience during <b>training days taught me the importance of attention to detail, teamwork, and effective communication.</b>
   </p>
 
 
