@@ -3,22 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasthagiri-vali" alt="dasthagiri-vali" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dasthagiri_7" target="blank"><img src="https://img.shields.io/twitter/follow/dasthagiri_7?logo=twitter&style=for-the-badge" alt="dasthagiri_7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dasthagirivali_" target="blank"><img src="https://img.shields.io/twitter/follow/dasthagirivali_?logo=twitter&style=for-the-badge" alt="dasthagiri_7" /></a> </p>
   
 
 - 🔭 I’m currently working on **Supermarket Management System**  
   
 
-- 🌱 I’m currently learning **RESTful API**  
-  
-
 - ❓ Ask me about anything related to **Python**, **Django** and **MySQL**  
   
 
-- 📩 You can reach me on [LinkedIn](https://www.linkedin.com/in/dasthagiri7) or [Email](mailto:dasthagirivali77@gmail.com)  
+- 📩 You can reach me on [LinkedIn](https://www.linkedin.com/in/dasthagirivali) or [Email](mailto:dasthagirivali77@gmail.com)  
   
 
-- 📃 You can know my experiences by viewing [My Resume](https://drive.google.com/file/d/1dvEJ6icxek6cPdc28UPNLGe-Tx8nQ9aG/view?usp=share_link)  
+- 📃 You can know my experiences by viewing [My Resume](https://drive.google.com/file/d/10oW3c7LKGjhHE43toOb72WUO2kLmhjrj/view?usp=drivesdk)  
   
 
 <br/>  
